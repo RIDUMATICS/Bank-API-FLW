@@ -54,7 +54,7 @@ Ensure you have the following installed on your local machine:
 - [https://documenter.getpostman.com/view/6765162/2s9Y5ctLEn](https://documenter.getpostman.com/view/6765162/2s9Y5ctLEn)
 
 ### LIVE URL
-- [https://documenter.getpostman.com/view/6765162/2s9Y5ctLEn](https://documenter.getpostman.com/view/6765162/2s9Y5ctLEn)
+- [https://bank-api-flw.onrender.com/](https://bank-api-flw.onrender.com/)
 ## Misc😏
 
 If for some reason you find this repo useful, please give me a star🙏
